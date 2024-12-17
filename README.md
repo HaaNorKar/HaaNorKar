@@ -72,7 +72,28 @@
     </a>
 </p>
 
-<h3 align="center">🎮 Pac-Man Animation</h3>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/joaorb64/pacman-animation/master/pacman.gif" alt="Pac-Man Animation" width="300"/>
-</p>
+
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://yourusername.github.io/8bit-snake-game/" target="_blank">
+        <img src="https://i.gifer.com/5Mz4.gif" alt="8_bit_flame" width="30"/>
+    </a>
+    <a href="https://yourusername.github.io/game-2/" target="_blank">
+        <img src="https://i.gifer.com/5Mz4.gif" alt="8_bit_flame" width="30"/>
+    </a>
+    <a href="https://yourusername.github.io/game-3/" target="_blank">
+        <img src="https://i.gifer.com/5Mz4.gif" alt="8_bit_flame" width="30"/>
+    </a>
+    <a href="https://yourusername.github.io/game-4/" target="_blank">
+        <img src="https://i.gifer.com/5Mz4.gif" alt="8_bit_flame" width="30"/>
+    </a>
+</div>
+
+
+
+
+
+
+
+
