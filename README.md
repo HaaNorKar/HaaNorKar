@@ -10,4 +10,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haanorkar&show_icons=true&locale=en&layout=compact" alt="haanorkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haanorkar&show_icons=true&locale=en" alt="haanorkar" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/h%C3%A5vard-karlsen-karlsen-53b174218/" target="_blank">
+        LinkedIn
+    </a>
+</p>
 
